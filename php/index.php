@@ -8,7 +8,7 @@
     $port = 8081;
   } else {
     $protocol  = "http";
-    $port = 8080:
+    $port = 8080;
   }
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
